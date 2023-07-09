@@ -2,6 +2,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 100px;
 }
 body{
     font-family: 'Open Sans', sans-serif;
@@ -38,4 +39,35 @@ nav a{
     font-style: 20px;
     color: white;
     padding: 15px 16px;
+}
+.header{
+    background-color: #FFF8F3;
+    background-image: url(image/rainbow.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+
+}
+.banner{
+    padding: 20px 20px 0px 120px ;
+    display: flex;
+}
+.banner .profile-pic{
+    width: 780px;
+}
+.banner-greeting{
+    font-style: 25px;
+    font-weight: 800;
+    margin-bottom: 0;;
+
+}
+.banner-title{
+    font-size: 55px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+
+
+}
+.banner-description{
+    margin-top: 0;
+
 }
