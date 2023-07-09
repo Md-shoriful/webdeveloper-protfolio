@@ -72,6 +72,10 @@ nav a{
 
 }
 /*main tag kaj*/
+main{
+    max-width: 910px;
+    margin: 0 auto;
+}
 .section-title{
     color: #181818;
     text-align: center;
@@ -85,8 +89,16 @@ nav a{
     font-size: 18px;
 }
 .about{
-    padding: 130px;
+    padding: 100px;
    border-radius: 10px;
    background-color: #FFF8F3;
    margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+  
+}
+.about-info{
+    text-align: center;
 }
