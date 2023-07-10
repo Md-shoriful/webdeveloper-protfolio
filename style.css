@@ -39,12 +39,13 @@ nav a{
     font-style: 20px;
     color: white;
     padding: 15px 16px;
+    margin-right: 7px;
 }
 .header{
     background-color: #FFF8F3;
-    background-image: url(image/rainbow.jpg);
+    background-image: url(image/header_bg.png),url("image/developer.png");
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 
 }
 .banner{
@@ -61,7 +62,7 @@ nav a{
 
 }
 .banner-title{
-    font-size: 55px;
+    font-size: 45px;
     margin-top: 5px;
     margin-bottom: 10px;
 
