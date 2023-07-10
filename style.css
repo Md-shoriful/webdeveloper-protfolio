@@ -102,3 +102,24 @@ main{
 .about-info{
     text-align: center;
 }
+/* finish main tag & about*/
+/*started what i do */
+
+#what-i-do-description{
+    padding: 30px 150px;
+}
+/*started what i do/skilled side */
+.skills-container{
+    display: flex;
+    gap: 18px;
+}
+.skill{
+    padding: 26px;
+    border-radius: 5px;
+   
+
+}
+.skill-description{
+    color: #757575;
+
+}
