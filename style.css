@@ -160,3 +160,11 @@ main{
     margin-top: 30px;
     
 }
+/*footer*/
+footer{
+    display:  flex;
+   background-color: #FFF8F3;
+   margin-top:100px ;
+   padding:130px 200px;
+   
+}
